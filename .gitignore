@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#hides macOS file that indexes folders
+**/.DS_Store
